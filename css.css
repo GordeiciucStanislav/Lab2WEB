@@ -26,14 +26,14 @@ a
 .ion
 {
 	position: absolute;
-	height: 40%;
+	height: 50%;
 	width: 30%; 
 	left: 58%;
     top:40%;
 }
 .ion:hover 
 {
-	height: 50%;
+	height: 51%;
 	border: solid;
 }
 .txrigh
@@ -99,40 +99,44 @@ a
 .rez
 {
 	font-size: 40px;
+	display: inline;
 }
 .rez:hover a
 {
-	font-size: 60px;
+	font-size: 45px;
 	color:white;
 	border-color:white;
 }
 .p1
 {
 	font-size: 40px;
+	display: inline;
 }
 .p1:hover a
 {
-	font-size: 60px;
+	font-size: 45px;
 	color:white;
 	border-color:white;
 }
 .p2
 {
 	font-size: 40px;
+	display: inline;
 }
 .p2:hover a
 {
-	font-size: 60px;
+	font-size: 45px;
 	color:white;
 	border-color:white;
 }
 .p3
 {
 	font-size: 40px;
+	display: inline;
 }
 .p3:hover a
 {
-	font-size: 60px;
+	font-size: 45px;
 	color:white;
 	border-color:white;
 }
